@@ -22,3 +22,4 @@
 UI 组件库：Element Plus
 
 交互技术：Axios 拦截、Vue Router 导航守卫、响应式布局 (Flex/Grid)
+<img width="2527" height="1259" alt="image" src="https://github.com/user-attachments/assets/1f938c90-3110-4385-8971-975bac8166a5" />
