@@ -1,5 +1,7 @@
+springboot+vue3的前后端分离项目，创新点在协同过滤算法和ai助手的引入可做毕设或者结课项目，部署简单，小白也可
+
 1. AI 智能点餐助手 (AI Ordering Assistant)
-自然语言对话：内置 AI 助手，支持用户通过自然语言咨询菜品，提升交互趣味性。
+自然语言对话：内置 AI 助手，支持用户通过自然语言咨询菜品，提升交互趣味性。可自行调整ai助手的 说话方式也可亲和，
 
 一键加购技术：前端实时解析 AI 回复文本中的菜品关键词，动态比对数据库菜品库，并在回复气泡下方自动生成“点一份”快捷按钮，极大缩短点餐路径。
 2. 数字化桌台管理 (Digital Table Monitoring)
@@ -36,4 +38,6 @@ UI 组件库：Element Plus
 <img width="2560" height="1377" alt="image" src="https://github.com/user-attachments/assets/b86e4976-d72d-4ad1-8042-6783ee56026d" />
 <img width="2559" height="1345" alt="image" src="https://github.com/user-attachments/assets/6dedd2ae-bffa-48e0-9864-904668021afc" />
 <img width="2396" height="1256" alt="image" src="https://github.com/user-attachments/assets/69f54834-3277-4e91-9ee4-df4c39ba84d9" />
+欢迎下载，感谢支持
+![db69b453f5e5d510e7c45bdd290d240](https://github.com/user-attachments/assets/e568b645-3c19-4452-9a35-00d3f32331b7)
 
