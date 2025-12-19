@@ -6,7 +6,7 @@ spring:
     # 修改你的数据库账号密码
     url: jdbc:mysql://localhost:3306/restaurant_db?useUnicode=true&characterEncoding=utf-8&serverTimezone=Asia/Shanghai&useSSL=false
     username: root
-    password: 18202224370
+    password: root
     driver-class-name: com.mysql.cj.jdbc.Driver
 
 mybatis-plus:
