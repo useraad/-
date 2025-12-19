@@ -14,5 +14,5 @@ mybatis-plus:
     log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
     map-underscore-to-camel-case: true
 deepseek:
-  api-key: "sk-2daaa64a6e4649c7a6b448ccde3dab4e"
+  api-key: "你的api"
   model: "deepseek-chat"
