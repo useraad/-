@@ -1,1 +1,15 @@
+# 1. 强制将所有 .java 文件识别为编程语言代码
+*.java linguist-detectable=true
 *.java linguist-language=Java
+
+# 2. 将前端的所有打包、依赖和配置文件标记为“生成文件”或“文档”
+# 这样 GitHub 统计时会忽略它们的体积，从而突出 Java
+resturant_ui/**/*.js linguist-vendored
+resturant_ui/**/*.json linguist-vendored
+resturant_ui/**/*.css linguist-vendored
+resturant_ui/**/*.html linguist-vendored
+resturant_ui/public/* linguist-vendored
+
+# 3. 排除后端一些非代码文件的统计（如 pom.xml）
+pom.xml linguist-generated=true
+.mvn/* linguist-generated=true
